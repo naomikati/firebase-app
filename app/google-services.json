@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652469049028",
+    "project_id": "morning-fb-app",
+    "storage_bucket": "morning-fb-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652469049028:android:8570667142cc6d4c721b91",
+        "android_client_info": {
+          "package_name": "com.example.morningfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652469049028-uasq1i3o7fdblmh87bort6kid2k0rpaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnj4bn_0PtMcfQeL-72mQz1kkyZe5x3TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652469049028-uasq1i3o7fdblmh87bort6kid2k0rpaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
